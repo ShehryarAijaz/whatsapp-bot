@@ -9,7 +9,8 @@ TOKENS = {
     "rei": "0x6B2504A03ca4D43d0D73776F6aD46dAb2F2a4cFD",  # Replace with actual REI contract address
     "jos": "JosjEXh69RckgSs2AWsN1xN8zmiSHxBuJjHLURJnHhg",  # Example for ETH
     "trump": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
-    "btc": "0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf"
+    "btc": "0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf",
+    "bios": "0x73Cb479f2ccf77BAd90BcDA91e3987358437240A"
 }
 
 def get_token_data(contract_address):
