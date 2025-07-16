@@ -11,7 +11,7 @@ A simple Flask-based WhatsApp bot using Twilio and Dexscreener API to fetch real
 ## Setup
 
 1. Clone the repo  
-   `git clone https://github.com/yourusername/crypto-price-bot.git`
+   `git clone https://github.com/shehryaraijaz/whatsapp-bot.git`
 
 2. Install dependencies  
    `pip install -r requirements.txt`
